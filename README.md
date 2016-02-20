@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Matt Elliott
 
-**Due date:** _\<date\>_
+**Due date:** Friday Feb. 19, 2016
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+Homework from the book, finding interest rates, seconds to years conversions, trigonometry equations
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I mostly learned how to clone files from github to edited. The reason this assignment is late is because I couldn't figure out how to submit it without the help of another student
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Matt Elliott
